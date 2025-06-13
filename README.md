@@ -19,4 +19,4 @@ Data literacy simply means the ability to read,understand, work with,analyse, an
 ### Data storage 
  Data can either be stored 
    - on premises (data lives within the organisation)
-   - Cloud.
+   -  Cloud.
